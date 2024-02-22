@@ -1,0 +1,42 @@
+_repo: Roland-Furieux-tome-4_72939
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Reynard, Francisque
+    birthdate: 1835
+    gutenberg_agent_id: '55317'
+    url: http://www.gutenberg.org/2009/agents/55317
+creator:
+  author:
+    agent_name: Ariosto, Lodovico
+    aliases:
+    - Ariost, Lodovico
+    - Ariosto, Ludovico
+    birthdate: 1474
+    deathdate: 1533
+    gutenberg_agent_id: '322'
+    url: http://www.gutenberg.org/2009/agents/322
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ludovico_Ariosto
+    - https://it.wikipedia.org/wiki/Ludovico_Ariosto
+description: ''
+gutenberg_issued: '2024-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72939'
+language: fr
+pgterms:marc904: https://books.google.fr/books?id=4nLyAAAAMAAJ
+pgterms:marc905: 20230107131923ariosto
+pgterms:marc906: '1880'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aParis :$bLemerre, $c1880.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Roland Furieux, tome 4
+url: http://www.gutenberg.org/ebooks/72939
