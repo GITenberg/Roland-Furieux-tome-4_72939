@@ -6,6 +6,9 @@ contributor:
     birthdate: 1835
     gutenberg_agent_id: '55317'
     url: http://www.gutenberg.org/2009/agents/55317
+covers:
+- cover_type: archival
+  image_path: 72939-h/images/cover.jpg
 creator:
   author:
     agent_name: Ariosto, Lodovico
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ludovico_Ariosto
     - https://it.wikipedia.org/wiki/Ludovico_Ariosto
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72939#Roland-Furieux-tome-4
 gutenberg_issued: '2024-02-12'
 gutenberg_type: Text
 identifiers:
